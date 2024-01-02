@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "extensions",
+    "version": "1.0",
+    "description": "aprendiendo a hacer extensión",
+    "icons": {
+      "128": "icon.png"
+    },
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
